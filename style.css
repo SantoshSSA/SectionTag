@@ -1,0 +1,36 @@
+	
+		.oneClass
+		{
+		height:100px;
+		width:50px;
+		background-color: yellow
+		}
+		#twoId
+		{
+		height:100px;
+		width:100px;
+		background-color: red
+		}
+		.urls{
+			font-size: xx-large;
+			font-family: Arial;
+			color: orange;
+			font-weight: bold;
+		}
+		.divElements .paraElements
+		{
+			height: 500px;
+			width: 200px;
+			background-color: green;
+			text-align: center;
+			font-weight: bold;
+		}
+		.paraElements{
+			
+			color: black;
+			font-weight: normal;
+		}
+		.btnsty{
+			margin-left: 10px ;
+		}
+	
